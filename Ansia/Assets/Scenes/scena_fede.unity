@@ -345,3 +345,4 @@ MonoBehaviour:
   maxHeight: 3
   minHeight: -5
   health: 3
+  effect: {fileID: 2649037740943801941, guid: f9a65e53af335104bac798c12ed9bce8, type: 3}
